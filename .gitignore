@@ -1,1 +1,7 @@
-{\rtf1}
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+user_report.csv
+user_report.xlsx
